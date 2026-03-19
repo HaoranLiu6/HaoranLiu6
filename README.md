@@ -1,4 +1,4 @@
-# Hi, Here is Quincy 👋
+# Hi, here is Quincy 👋
 
 🎓 Mathematics & Computer Science @ University of Bristol  
 💡 Interested in Machine Learning, Data Science, Software Development...  
