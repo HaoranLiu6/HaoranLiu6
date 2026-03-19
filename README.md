@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi, Here is Quincy 👋
 
+🎓 Mathematics & Computer Science @ University of Bristol  
+💡 Interested in Machine Learning, Data Science, Software Development...  
+🚀 Building, breaking, learning  
 <!--
 **HaoranLiu6/HaoranLiu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
